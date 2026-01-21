@@ -25,7 +25,7 @@ That's it! Auto-configured via Symfony Flex.
 
 Yes! Doctrine Doctor supports:
 - **Symfony**: 6.0+ and 7.x
-- **PHP**: 8.2+
+- **PHP**: 8.4+
 - **Doctrine ORM**: 2.10+, 3.x, 4.x
 
 ### Do I need to configure anything?
