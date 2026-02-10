@@ -13,7 +13,7 @@ Complete guide to setting up Doctrine Doctor for local development.
 
 ## Prerequisites
 
-- **PHP**: 8.2 or higher
+- **PHP**: 8.4 or higher
 - **Composer**: 2.0+
 - **Git**: Latest version
 - **IDE**: PHPStorm, VS Code, or your preference
@@ -320,7 +320,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'
+          php-version: '8.4'
       - run: composer install
       - run: vendor/bin/phpunit
       - run: vendor/bin/phpstan analyse

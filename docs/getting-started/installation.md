@@ -13,7 +13,7 @@ Detailed installation guide for Doctrine Doctor.
 
 ## Requirements
 
-- **PHP**: 8.2 or higher
+- **PHP**: 8.4 or higher
 - **Symfony**: 6.0+ or 7.x
 - **Doctrine ORM**: 2.10+, 3.x, or 4.x
 
